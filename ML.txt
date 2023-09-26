@@ -1,8 +1,10 @@
-MISSION LOG - <NAZIV MISIJE> - Stardate: 24.10.2023. 19:00
+MISSION LOG  - Stardate: 24.09.2023. 19:00-23:00
+
+<NAZIV MISIJE>
 
 ZAPLET:
-Nalazimo se u conference roomu. Kapetan dolazi s novim zadatkom. 
-U tijeku je istraživanje nepoznatog sustava od 9 planeta. 
+Nalazimo se u conference roomu. Kapetan dolazi s novim zadatkom.
+U tijeku je istraživanje nepoznatog sustava od 9 planeta.
 Na svaki planet u sustavu je poslan po jedan šatl, međutim jedan od šatlova se nije vratio i kasni već 3 sata od zakazanog vremena povratka, a na njemu su bila 3 bezimena LD ensigna.
 Prije svega trebamo imenovati Sustav i planete, pa dajemo prijedloge.
 Kesh predlaže klasični naziv od 3 slova i 3 broja: "XLB383".
@@ -12,7 +14,7 @@ Glasovanjem se odabire naziv sustava "Lister", a planet na koji kreće misija na
 
 ČIN 1:
 S obzirom na to da su u sustavu jake elektromagnetske smetnje, nema koristi od LR senzora.
-Malim i neopremljenim šatlom uz minimalno opreme i EV odijelima, away team kreće s USS Aurore prema planetu "Lister 1" istom rutom kojom je išao izgubljeni šatl.
+Malim i slabo opremljenim šatlom uz minimalno opreme i EV odijelima, away team kreće s USS Aurore prema planetu "Lister 1" istom rutom kojom je išao izgubljeni šatl.
 Na putu EM smetnje postaju još jače te nema nikakve koristi ni od SR senzora, pa Mr.Spock neprestano prati optičku vidljivost preko kamera koje je Kesh ručno očistio i pregledao prije puta.
 Dolaskom do Listera 1, jedino što znamo i vidimo je da se radi o planetu klase (vjerojatno) D ili tako nešto, ali ga ne možemo skenirati zbog smetnji, a vidljivost je isto jako slaba za vizualnu procjenu.
 Na mjestu gdje završava ruta izgubljenog šatla ne pronalazimo ništa.
@@ -26,17 +28,17 @@ Glasovanjem odlučimo da ćemo sami istražiti.
 Približavamo se postaji i u jednom trenutku siže dolazna poruka s postaje: "Dobrodošli! Slijedite zelena svjetla i pristanite na dock 1!"
 Slijedimo upute i prilazimo docku 1, otvaraju se vrata i ugledamo izgubljeni šatl "Yosemite" te se parkiramo pored njega, a vrata se za nama odmah zatvore.
 Na Yosemiteu nema nestalih LD članova, kao niti tragova borbe.
-Boshkovich programira naš mali šatl da se automatski vrati na Auroru i prenese poruku: "Mi smo na svemirskoj postaji desno od Listera 1, ovdje je super i nećemo se vratiti!" 
- skenira trikorderom okolinu, ali sve što uspije doznati je da signal ne prodire iza metalnih zidova, pa nije moguće otkriti što se iza zidova nalazi ni ima li i kakvih znakova života.
+Boshkovich programira naš mali šatl da se automatski vrati na Auroru i prenese poruku: "Mi smo na svemirskoj postaji desno od Listera 1, ovdje je super i nećemo se vratiti!"
+ skenira trikorderom okolinu, ali sve što uspije saznati je da signal ne prodire iza metalnih zidova, pa nije moguće otkriti što se iza zidova nalazi ni ima li te kakvih znakova života.
 Odjednom, glas iz zvučnika progovori "Slijedite zelena svjetla i ostavite oružje!" i otvaraju se vrata koja vode kroz ~100 metara dug hodnik.
 Keval zadržava svoj andorijanski bodež, jer to nije oružje nego vjerski, kulturološki i uporabni predmet za razne namjene(otvaranje piva npr.).
 Nastavljamo kroz hodnik u kojem se ne čuje ništa drugo osim pozadinskih zvukova postaje i zujanja istrošenih startera u neonskim svjetlima.
-Hodnik izgleda kao duga metalna cijev i ništa novo ne saznajemo sve dok se pre nama ne otvore vrata. 
+Hodnik izgleda kao duga metalna cijev i ništa novo ne saznajemo sve dok se pre nama ne otvore vrata.
 
 ČIN 3:
 Prolazimo kroz vrata na kraju hodnika i ulazimo na neku vrstu balkona kakav se viđa u velikim turističkim resortima, a vrata se za nama zatvore i doslovno nestanu.
 Čini se kao da nismo na svemirskoj postaji nego na nekom otoku s predivnim plažama, hotelima, sportskim terenima, wellness parkovima, beach barovima i sl.
-Dočeka nas simpatični(?) domaćin nepoznate humanoidne rase s nekakvim točkicama po licu i predstavi nam se kao poddirektor Hamisor.
+Dočeka nas simpatični(?) domaćin nepoznate humanoidne rase s nekakvim točkicama po licu i predstavi nam se kao pod direktor Hamisor.
 Poželi nam dobrodošlicu i uputi nas u sve usluge koje se ovdje nude.
  ga pita gdje smo, on odgovori: "Na Telemi!" - Što je Telema? - Telema je napravljena za vas, da se ugodno osjećate i da se opustite. Ovdje možete ispuniti sve svoje želje!
 Upita ga je li danas/prije desetak sati vidio ljude slične nama, a li se ispostavi da oni vjerojatno ne računaju vrijeme istim jedinicama kao i mi, a Hamisor izbjegava konkretno odgovoriti.
@@ -46,7 +48,7 @@ S obzirom na to da ne vidimo znakove nasilja ili zarobljavanja te svi uživaju u
 Usput  upita dvoje gostiju koji igraju stolni tenis koliko dugo su ovdje, ali ni od njih nema nikakve koristi, ap produžujemo do beach bara.
 Tu svatko naruči svoje omiljeno piće,  skenira svoje i otkrije da se radi o pravom piću bez ikakvih dodataka koji bi izazvali nekakvu promjenu u tijelu ili mozgu.
 Boshkovich baca svoj koktel , dolazi čistač i čisti, a on ga slijedi u ostavu za alat, ali tamo ništa korisno ne pronalazi.
-Jedino Mr.Spock nije dobio Plomekovu juhu, jer konobar to nije znao spraviti, pa je preskočio daljnje isprobavanje jela i pića i smislio plan da izazove dolazak onih koji ovim upravljaju, pošto od gostiju nema koristi.
+Jedino Mr.Spock nije dobio Plomekovu juhu, jer konobar to nije znao napraviti, pa je preskočio daljnje isprobavanje jela i pića i smislio plan da izazove dolazak onih koji ovim upravljaju, pošto od gostiju nema koristi.
 Jedna od ideja je bila da odglumimo tučnjavu, ali na kraju se Mr.Spock odlučio "onesvijestiti" pod izlikom da mu je nestalo kisika u njegovom EV odijelu.
 Iako smo očekivali da će do nas doći netko živ kojemu bi mogli reći da poluvulkanac ima određenu vulkansku bolest, a za koju lijek ima samo u šatlu s kojim smo stigli(kako bi eventualno mogli otići s postaje), ostali smo razočarani jer su se pojavila 2 drona s nosilima, podigli Mr.Spocka i odnijeli ga kroz vrata koja su se pojavila u metalnom zidu i odmah za njima zatvorila.
 Boshkovich se dosjeti da bi mogao skenirati signale koje dronovi koriste za otvaranje vrata, pa se i Kesh "onesvijesti".
@@ -58,7 +60,7 @@ Dronovi odnose i njega kroz ista ona vrata.
 Boshkovich se probudi te zajedno s Keshom i Mr.Spockom shvati da se nalaze usred prašume, oko njih je sve maglovito i mračno te više nemaju EV odijela.
 Začuju da se u grmlju pored njih nešto kreće.
 Pošto su na nepoznatom terenu, poduzimaju mjere opreza - Mr.Spock se hitrim pokretom popne na drvo, Boshkovich se još hitrijim pokretom baci u prvi grm, a Kesh se sakrije iza drveta!
-Iz grmlja se pojavi Hirogenski lovac naoružan osrednjim bodežom nešto manjim od mača i krene prema nama. 
+Iz grmlja se pojavi Hirogenski lovac naoružan osrednjim bodežom nešto manjim od mača i krene prema nama.
 Mr.Spock mu s drveta skoči na leđa i pokuša ga onesposobiti vulkanskim stiskom, ali ne uspije jer Hirogenac ima ratnički oklop te se okrene i zasiječe Mr.Spocka po prsima.
 Na to Boshkovich skoči iz grma i uspije onesposobiti Hirogenca poznatim Kirkovim Kirk-fu pokretom spojenih šaka.
 Kesh pronađe lijane koje vise s drveta i zaveže onesviještenog Hirogenca za drvo.
@@ -69,14 +71,14 @@ Odlučimo pobjeći od kampa, Mr.Spock ne želi ubiti Hirogenca i ostavlja mu bod
 Dolaskom u Hirogenčev kamp, koji je zapravo špilja, pronalazimo krvave ostatke federacijske opreme i zaključujemo da je to od izgubljene LD posade Yosemite šatla.
 Uzimamo trikordere, skeniramo špilju, ali ne pronalazimo nikakve znakove tehnologije ili skrivene prolaze.
 Kesh pronalazi tlocrt postaje koji prikazuje da se ista sastoji od 3 nivoa. Na prvom je turistički resort s plažama i hotelima, na drugom je prašuma, tj. hunting ground, a na trećem, najnižem je strojarnica s warp coreom i kontrolna soba, a na sredini prašume se nalazi veliko drvo poput onoga iz Game of Thrones unutar kojega su kružne stepenice koje vode na najniži nivo.
-Mr.Spock trikorderom skenira okoliš u nadi da će pronaći neke rudače ili sastojke od kojih bi napravio nekakvu bombu, ali ne pronalazi ništa takvo.
+Mr.Spock trikordeom skenira okoliš u nadi da će pronaći neke rudače ili sastojke od kojih bi napravio nekakvu bombu, ali ne pronalazi ništa takvo.
 Kesh isprogramira sva tri trikordera tako da emitiraju jamming signal kako bi ometao praćenje dronovima.
-Odlazimo do središnjeg drveta, Mr.Spock petnaestak koraka ispred, a Boshkovichi Kesh ga prate i čuvaju mu leđa.
+Odlazimo do središnjeg drveta, Mr.Spock petnaestak koraka ispred, a Boshkovich i Kesh ga prate i čuvaju mu leđa.
 Dolaskom do drveta pred njih iskoče 3 velika aliena naoružana velikim mačetama i krenu prema Mr.Spocku!
 Mr.Spock vidi da protiv njih nema šanse, čak ni uz Keshovu i Boshkovichevu pomoć, pa odluči s njima razgovarati i upita ih: "Tko ste vi!"
 Ovi u glas odgovaraju: "Vaša smrt!"
 Mr.Spock ih pokušava uvjeriti da nas ne ubiju i im možda možemo pomoći ako trebaju hranu/tehnologiju/lijekove. Vanzemaljci se primire i krenu ispovijedati - da mi nismo ubojice, mi smo računovođe, ali smo ovdje zapeli i moramo se braniti. Nitko odavde još nije otišao i ne znamo što da radimo.
-Dogovorimo se s njima da pokušamo pronaći i otvoriti vrata u tom velikom drvetu. Oni svojim sabljama ogule koru i uspiju otvoriti vrata te ugledamo stepenice koje vode na nivo ispod nas.
+Dogovorimo se s njima da pokušamo pronaći i otvoriti vrata u tom velikom drvetu. Oni svojim sabljama skidaju koru i uspiju otvoriti vrata te ugledamo stepenice koje vode na nivo ispod nas.
 Iz otvora se čuje zujanje dronova i malih kuglastih letećih elektrošokera.
 Boškovich potrči prvi, a Kesh i Mr.Spock za njim, a vanzemaljci ih brane mlateći svojim velikim sabljama dronove i kugle.
 Uspijemo se spustiti stepenicama do kontrolne sobe.
@@ -105,16 +107,19 @@ Odbor mu naredi da prestane ispunjavati sve želje gostiju i da ugasi dronove.
 Direktor počne izvršavati novi kod i odjednom upadne u nekakvu fatal error petlju te mu se sustavi počnu gasiti i odjednom nastane mrak na svim ekranima i svi dronovi popadaju isključeni!
 Glas iz zvučnika počne odbrojavati 120 minuta do proboja warp core-a radi fatalne greške u sistemu.
 Dogovaramo se što ćemo učiniti - pobjeći sad kad je sve ugašeno ili spasiti "goste" koji ima otprilike još 1000, jer je druga polovica već počela bježati svojim brodovima, ali očito nemaju svi svoje i ostaju zarobljeni na postaji.
-Glasovanjem odlučujemo pokušati ugasiti warp reaktor, jer je programirani dron vjerojatno krenuo prema Aurori i ona će stići u pomoć.
+Glasovanjem odlučujemo pokušati ugasiti warp reactor, jer je programirani dron vjerojatno krenuo prema Aurori i ona će stići u pomoć.
 Za to je potrebno ručno otvoriti 3 ventila na 3 različite strane postaje kako bi iscurila plazma.
 Kesh svoj uspije otvoriti iz prvog pokušaja, Mr.Spockov se zaglavi, a Boshkovich je svojeg okretao u pogrešnu stranu, pa ga je još jače zategnuo.
 Kesh dolazi i pomaže Mr.Spocku otvoriti drugi ventil, a zajedničkim snagama uspiju otvoriti i treći.
 Međutim, pošto je neko vrijeme bio otvoren samo jedan ventil, djelovao je kao thruster i počeo je okretati postaju i to tako da ju je izbacio iz orbite i usmjerio prema planetu!
-Vraćamo se u šatl i uzlijećemo, dolazi Aurora te se odlučujemo za pokušaj hvatanja postaje tractor beamom kako bi barem usporili, ako već ne zaustavimo pad postaje na planet dok teleportiramo "goste" na Auroru i ostale šatlove.
+Vraćamo se u šatl i polijećemo, dolazi Aurora te se odlučujemo za pokušaj hvatanja postaje tractor beamom kako bi barem usporili, ako već ne zaustavimo pad postaje na planet dok teleportiramo "goste" na Auroru i ostale šatlove.
 Uspijevamo zaustaviti postaju i spasiti sve goste.
 
 RASPLET:
 Kapetan pohvaljuje away team na izvrsno obavljenom poslu!
 Izgubljeni i bezimeni LD ensigni nisu ni spomenuti, a kamoli dobili minutu šutnje.
 Mission log kapetan prenese Starfleet Headquartersu koji zakazuju istraživanje postaje i špotaju nas jer bi sve moglo potrajati puno kraće da je direktor ostao upaljen!
-Boshkovich ponovno ode na WC(vjerojatno sakriti portabilni mini-fazor u čarapu), Kesh završava logove s tehničkim detaljima, a Mr.Spock odlazi u Eight Below pojesti Plomekovu juhu, nakon čega će se posvetiti meditiranju.
+Boshkovich odlazi na WC(vjerojatno sakriti portabilni mini-fazor u čarapu), Kesh završava logove s tehničkim detaljima, a Mr.Spock odlazi u Eight Below jesti Plomekovu juhu, nakon čega će se posvetiti meditiranju.
+
+
+.: The End :.
